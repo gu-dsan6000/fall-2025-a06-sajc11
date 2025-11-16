@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/04/20 15:16:12 INFO BlockManagerInfo: Added broadcast_6_piece330 in memory on mesos-slave-19:49838 (size: 4.0 MB, free: 12.9 GB)",INFO
+17/06/08 10:07:26 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 541,INFO
+17/06/10 15:31:06 INFO storage.BlockManager: Found block rdd_2_9 locally,INFO
+"17/06/08 17:55:51 INFO python.PythonRunner: Times: total = 41, boot = 19, init = 21, finish = 1",INFO
+17/06/06 22:03:54 INFO executor.Executor: Running task 15.0 in stage 174.0 (TID 6975),INFO
+"17/06/06 22:05:56 INFO storage.MemoryStore: Block broadcast_351_piece0 stored as bytes in memory (estimated size 29.1 KB, free 1454.4 KB)",INFO
+"17/05/08 09:26:10 INFO BlockManagerInfo: Added broadcast_6_piece132 in memory on mesos-slave-10:41179 (size: 4.0 MB, free: 12.9 GB)",INFO
+17/06/09 09:48:08 INFO storage.BlockManager: Found block rdd_1205_6 locally,INFO
+17/06/09 11:12:22 INFO storage.BlockManager: Found block rdd_442_6 locally,INFO
+17/06/09 12:45:37 INFO storage.BlockManager: Found block rdd_16431_14 locally,INFO
