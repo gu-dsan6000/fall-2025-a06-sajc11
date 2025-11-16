@@ -8,7 +8,7 @@
 
 ## Analysis Overview
 
-This follwing analysis summarizes the development, deployment, and execution of the Spark Log Analysis assignment (A06) for DSAN 6000.
+The following analysis summarizes the development, deployment, and execution of the Spark Log Analysis assignment (A06) for DSAN 6000.
 
 **Project Requirements:**
 
